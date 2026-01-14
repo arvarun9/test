@@ -11,4 +11,4 @@ I write about:
 - Youth & society
 
 📧 Email: your@email.com  
-📄 Resume: [Download PDF](resume.pdf)
+📄 Resume: [Download PDF](_posts/2026-01-14-title.md)
